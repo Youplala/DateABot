@@ -9,6 +9,7 @@ intents:
 - mood_great
 - mood_unhappy
 - bot_challenge
+- mood_ask
 responses:
   utter_greet:
   - text: Hey! How are you?
@@ -23,3 +24,8 @@ responses:
   - text: Bye
   utter_iamabot:
   - text: I am a bot, powered by Rasa.
+  utter_mood_great:
+  - text: I'm good, thank you !
+  - text: I'm very good !
+actions:
+- utter_mood_great
