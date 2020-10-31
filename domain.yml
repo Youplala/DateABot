@@ -11,6 +11,7 @@ intents:
 - bot_challenge
 - mood_ask
 - lame_pickup
+- lame_recover
 responses:
   utter_greet:
   - text: Hey! How are you?
@@ -32,5 +33,13 @@ responses:
   - text: Okay bye
   - text: Lame af
   - text: Seriously? Learn originality
+  utter_second_chance:
+  - text: Alright, i'm listening
+  - text: Okay, listening
+  - text: Okay, last chance
+  - text: Alright
+  - text: Okay listening
+  - text: Alright, last chance
 actions:
 - utter_mood_great
+- utter_second_chance
