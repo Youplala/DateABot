@@ -10,6 +10,7 @@ intents:
 - mood_unhappy
 - bot_challenge
 - mood_ask
+- lame_pickup
 responses:
   utter_greet:
   - text: Hey! How are you?
@@ -27,5 +28,9 @@ responses:
   utter_mood_great:
   - text: I'm good, thank you !
   - text: I'm very good !
+  utter_pickup_reticent:
+  - text: Okay bye
+  - text: Lame af
+  - text: Seriously? Learn originality
 actions:
 - utter_mood_great
