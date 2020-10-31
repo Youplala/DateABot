@@ -63,6 +63,7 @@ nlu:
     - i'm good
     - i'm good than you
     - fine
+    - i'm fine
 - intent: mood_unhappy
   examples: |
     - my day was horrible

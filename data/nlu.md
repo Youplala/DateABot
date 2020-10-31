@@ -7,6 +7,7 @@
 
 ## intent:mood_ask
 - i'm good and you
+- i'm good and you ?
 
 ## intent:lame_pickup
 - Do you come with coffee and cream, cuz ur my sugar!
@@ -14,6 +15,8 @@
 - i have two days to live
 - i'll be dead in two days
 - i'll die soon
+- i willl be dead in two month
+- i have two months to live
 
 ## intent:lame_recover
 - okay sorry let me try again
