@@ -4,6 +4,8 @@ stories:
   steps:
   - intent: lame_pickup
   - action: utter_pickup_reticent
+  - intent: lame_recover
+  - action: utter_second_chance
 rules:
 - rule: Say goodbye anytime the user says goodbye
   steps:

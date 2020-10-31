@@ -17,6 +17,7 @@
 - i'll die soon
 - i willl be dead in two month
 - i have two months to live
+- hey, did your father took all the stars in the sky to put them in your eyes ?
 
 ## intent:lame_recover
 - okay sorry let me try again
