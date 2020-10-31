@@ -8,6 +8,8 @@
 ## intent:mood_ask
 - i'm good and you
 - i'm good and you ?
+- hi there, how are you today ?
+- hi, how are u?
 
 ## intent:lame_pickup
 - Do you come with coffee and cream, cuz ur my sugar!
