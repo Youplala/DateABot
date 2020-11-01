@@ -35,6 +35,7 @@ responses:
   - text: Okay bye
   - text: Lame af
   - text: Seriously? Learn originality
+  - text: So lame ...
   utter_second_chance:
   - text: Alright, i'm listening
   - text: Okay, listening

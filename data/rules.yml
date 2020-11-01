@@ -19,3 +19,7 @@ rules:
   steps:
   - intent: bot_challenge
   - action: utter_iamabot
+- rule: Act shocked anytime the user says nasty stuff
+  steps:
+  - intent: nasty_comment
+  - action: utter_shocked
