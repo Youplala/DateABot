@@ -41,6 +41,10 @@ responses:
   - text: Alright
   - text: Okay listening
   - text: Alright, last chance
+  utter_lame_appreciated:
+  - text: Okay not bad
+  - text: Classic, but funny tho
+  - text: That was actually funny
 actions:
 - utter_mood_great
 - utter_second_chance

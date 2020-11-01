@@ -6,6 +6,10 @@ stories:
   - action: utter_pickup_reticent
   - intent: lame_recover
   - action: utter_second_chance
+- story: Lame pickup appreciated
+  steps:
+  - intent: lame_pickup
+  - action: utter_lame_appreciated
 rules:
 - rule: Say goodbye anytime the user says goodbye
   steps:
