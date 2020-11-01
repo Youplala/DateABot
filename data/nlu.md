@@ -17,6 +17,7 @@
 - i'm good and you ?
 - hi there, how are you today ?
 - hi, how are u?
+- I'm good and you ?
 
 ## intent:lame_pickup
 - Do you come with coffee and cream, cuz ur my sugar!

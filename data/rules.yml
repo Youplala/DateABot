@@ -10,6 +10,12 @@ stories:
   steps:
   - intent: lame_pickup
   - action: utter_lame_appreciated
+- story: Greeting + user asks mood
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_ask
+  - action: utter_happy
 rules:
 - rule: Say goodbye anytime the user says goodbye
   steps:
