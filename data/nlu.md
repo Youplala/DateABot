@@ -9,6 +9,8 @@
 - wazzup
 - hey yo
 - hello there man
+- Hey sweetie 😘
+- Hello darling
 
 ## intent:mood_ask
 - i'm good and you
@@ -106,6 +108,9 @@
 - u hot as fuck
 - you are very hot
 - you look sexy
+- you are hot
+- you look hot as fuck
+- you arre sexy
 
 ## regex:Do you know
 - Do you know

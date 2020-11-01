@@ -35,6 +35,7 @@ nlu:
     - of course
     - that sounds good
     - correct
+    - Ok, let go
 - intent: deny
   examples: |
     - no
@@ -82,6 +83,7 @@ nlu:
     - so saad
     - so sad
     - bad
+    - Ntm
 - intent: bot_challenge
   examples: |
     - are you a bot?
