@@ -4,6 +4,10 @@
 - wassup
 - Hello
 - hi there
+- hey la team
+- wossup
+- wazzup
+- hey yo
 
 ## intent:mood_ask
 - i'm good and you
@@ -88,6 +92,9 @@
 - If you were a potato, you’d be a sweet one.
 - Do you know karate? Cause your body’s kickin!
 - You’re so hot you melt the plastic in my underwear.
+- hey, did your father put stars in your eyes ?
+- i need to call the bomb squad, bc you're a bomb
+- your father put the stars in your eyes
 
 ## intent:lame_recover
 - okay sorry let me try again
