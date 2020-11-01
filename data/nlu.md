@@ -102,5 +102,10 @@
 - okay sorry give me another chance
 - okay let me try again sorry
 
+## intent:nasty_comment
+- u hot as fuck
+- you are very hot
+- you look sexy
+
 ## regex:Do you know
 - Do you know

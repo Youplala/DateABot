@@ -12,6 +12,7 @@ intents:
 - mood_ask
 - lame_pickup
 - lame_recover
+- nasty_comment
 responses:
   utter_greet:
   - text: Hey! How are you?
@@ -45,6 +46,10 @@ responses:
   - text: Okay not bad
   - text: Classic, but funny tho
   - text: That was actually funny
+  utter_shocked:
+  - text: No way you just said that
+  - text: That's so inappropriate
+  - text: Are you ******* serious ?
 actions:
 - utter_mood_great
 - utter_second_chance
