@@ -8,6 +8,7 @@
 - wossup
 - wazzup
 - hey yo
+- hello there man
 
 ## intent:mood_ask
 - i'm good and you
