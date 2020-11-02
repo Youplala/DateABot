@@ -113,6 +113,9 @@
 - you look hot as fuck
 - you arre sexy
 
+## intent:ask_sex
+- wanna have sex ?
+
 ## regex:Do you know
 - Do you know
 
