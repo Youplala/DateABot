@@ -16,6 +16,10 @@ stories:
   - action: utter_greet
   - intent: mood_ask
   - action: utter_happy
+- story: Deny sex advances
+  steps:
+  - intent: ask_sex
+  - action: utter_deny_sex
 rules:
 - rule: Say goodbye anytime the user says goodbye
   steps:

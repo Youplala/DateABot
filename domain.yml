@@ -13,6 +13,7 @@ intents:
 - lame_pickup
 - lame_recover
 - nasty_comment
+- ask_sex
 responses:
   utter_greet:
   - text: Hey! How are you?
@@ -51,6 +52,11 @@ responses:
   - text: No way you just said that
   - text: That's so inappropriate
   - text: Are you ******* serious ?
+  utter_deny_sex:
+  - text: No thanks i'm fine :)
+  - text: Well that's raw
+  - text: Don't you think that's early?
+  - text: I'm gonna say no
 actions:
 - utter_mood_great
 - utter_second_chance
