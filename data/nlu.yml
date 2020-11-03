@@ -18,6 +18,8 @@ nlu:
   examples: |
     - good afternoon
     - cu
+    - c u
+    - see u
     - good by
     - cee you later
     - good night
@@ -40,6 +42,7 @@ nlu:
   examples: |
     - no
     - n
+    - nope
     - never
     - I don't think so
     - don't like that
@@ -55,7 +58,6 @@ nlu:
     - I am feeling very good
     - I am great
     - I am amazing
-    - I am going to save the world
     - super stoked
     - extremely good
     - so so perfect
@@ -65,7 +67,6 @@ nlu:
     - i'm good than you
     - fine
     - i'm fine
-    - cool
 - intent: mood_unhappy
   examples: |
     - my day was horrible

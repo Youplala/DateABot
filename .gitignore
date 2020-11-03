@@ -1,0 +1,8 @@
+# Ignore credentials
+.credentials
+
+# Ignore models
+models
+
+# Ignore access token
+.rasa_access_token
