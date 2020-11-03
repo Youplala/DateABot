@@ -11,6 +11,7 @@
 - hello there man
 - Hey sweetie 😘
 - Hello darling
+- what's up
 
 ## intent:mood_ask
 - i'm good and you
