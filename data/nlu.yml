@@ -32,12 +32,96 @@ nlu:
 - intent: affirm
   examples: |
     - yes
-    - y
     - indeed
     - of course
     - that sounds good
     - correct
-    - Ok, let go
+    - yup
+    - you got it
+    - you've got it
+    - that is correct
+    - that's correct
+    - uh yes
+    - um yes
+    - right on
+    - i love that
+    - this is so cool
+    - you are amazing
+    - yes, please
+    - yes :)
+    - yes!
+    - yes, that'd be great
+    - yes thatd be great
+    - pretty please!
+    - yes
+    - yes
+    - yes
+    - yes
+    - yes, please!
+    - Yes please
+    - Absolutely!
+    - Yes
+    - Yes please
+    - Yes
+    - Yes please
+    - Yes please. Thank you.
+    - yes please
+    - Sure
+    - Sounds good.
+    - Yes please
+    - Yes
+    - Yes
+    - yes please
+    - awesomeness
+    - yes
+    - totes
+    - very well
+    - of course
+    - by all means
+    - please!
+    - roger
+    - roger that
+    - affirmative
+    - ya
+    - you bet
+    - ok
+    - k
+    - okay
+    - alrighty
+    - sounds great
+    - that's awesome
+    - certainly
+    - indeed
+    - Undoubtedly
+    - Indubitably
+    - Absolutely
+    - Forsooth
+    - Yea
+    - verily
+    - surely
+    - aye
+    - mhmm
+    - uh-huh
+    - yessss
+    - toats
+    - Yep yep
+    - yes please!
+    - yes
+    - oh yeah!
+    - yeah
+    - let's create one
+    - sure thing
+    - sure. let's do it
+    - ya
+    - tru dat
+    - let's do it
+    - yes
+    - y
+    - ye
+    - oh, nice. let's do that
+    - that'd be great
+    - you betcha
+    - good for you
 - intent: deny
   examples: |
     - no

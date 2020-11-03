@@ -1,8 +1,8 @@
 # Ignore credentials
-.credentials
+.credentials.yml
 
 # Ignore models
 models
 
 # Ignore access token
-.rasa_access_token
+.rasa_access_token.txt
