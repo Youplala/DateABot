@@ -115,6 +115,12 @@
 
 ## intent:ask_sex
 - wanna have sex ?
+- do you want sex
+- do you wanna fuck?
+- wanna fck?
+- let's fuck
+- i want to get you pregnant
+- i will impregnate you
 
 ## regex:Do you know
 - Do you know
