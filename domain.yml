@@ -14,6 +14,7 @@ intents:
 - lame_recover
 - nasty_comment
 - ask_sex
+- ask_doing
 responses:
   utter_greet:
   - text: Hey! How are you?
@@ -88,6 +89,8 @@ responses:
   - text: Don't you think that's early?
   - text: I'm gonna say no
   - text: Hmmm,  no thanks
+  utter_doing:
+  - text: Not so much and you?
 actions:
 - utter_mood_great
 - utter_second_chance
