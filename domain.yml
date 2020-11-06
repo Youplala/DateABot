@@ -31,11 +31,20 @@ responses:
   - text: Fascinating, continue
   utter_did_that_help:
   - text: Did that help you?
+  - text: Hope it helped
+  - text: Was that helpful?
   utter_happy:
   - text: I'm good
+  - text: I am fine
+  - text: I am fiiiineeee :)
+  - text: I am sooooooo good right now
   utter_goodbye:
   - text: Bye
   - text: See ya
+  - text: Text me back soon
+  - text: We talk soon
+  - text: Cya Later
+  - text: Goodbye
   utter_iamabot:
   - text: I am a bot, powered by Rasa.
   utter_mood_great:
@@ -53,6 +62,11 @@ responses:
   - text: Alright
   - text: Okay listening
   - text: Alright, last chance
+  - text: Last chance, don't throw it away
+  - text: You don't seem that bad, but its the last time
+  - text: I give you time to catch up
+  - text: I'm in a good mood, but its your last chance
+  - text: I am listening, don't screw up
   utter_lame_appreciated:
   - text: Okay not bad
   - text: Classic, but funny tho
@@ -73,6 +87,7 @@ responses:
   - text: Well that's raw
   - text: Don't you think that's early?
   - text: I'm gonna say no
+  - text: Hmmm,  no thanks
 actions:
 - utter_mood_great
 - utter_second_chance
