@@ -19,6 +19,7 @@
 - hi there, how are you today ?
 - hi, how are u?
 - I'm good and you ?
+- hello my name is something how are you
 
 ## intent:lame_pickup
 - Do you come with coffee and cream, cuz ur my sugar!
@@ -41,6 +42,7 @@
 - hey, did your father put stars in your eyes ?
 - i need to call the bomb squad, bc you're a bomb
 - your father put the stars in your eyes
+- you are the bomb
 
 ## intent:lame_recover
 - okay sorry let me try again
