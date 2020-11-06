@@ -66,6 +66,11 @@
 - do you want to fuck me ?
 - Let's have sex
 
+## intent:ask_doing
+- What you doing?
+- what you doing then
+- what doing
+
 ## regex:Do you know
 - Do you know
 
