@@ -67,6 +67,8 @@
 - i will impregnate you
 - do you want to fuck me ?
 - Let's have sex
+- dick pic
+- You want a dic pick
 
 ## intent:ask_doing
 - What you doing?
