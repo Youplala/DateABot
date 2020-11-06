@@ -70,6 +70,7 @@
 - What you doing?
 - what you doing then
 - what doing
+- what you doing
 
 ## regex:Do you know
 - Do you know

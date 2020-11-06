@@ -91,6 +91,10 @@ responses:
   - text: Hmmm,  no thanks
   utter_doing:
   - text: Not so much and you?
+  - text: Nothing and you
+  - text: I'm bored doing nothing, what you doing
+  - text: Not so much and you
 actions:
 - utter_mood_great
 - utter_second_chance
+- utter_doing
