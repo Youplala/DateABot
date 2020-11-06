@@ -71,6 +71,7 @@
 - what you doing then
 - what doing
 - what you doing
+- What are u doing?
 
 ## regex:Do you know
 - Do you know
