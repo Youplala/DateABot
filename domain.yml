@@ -20,12 +20,22 @@ responses:
   utter_tell_me_more:
   - image: https://i.imgur.com/nGF1K8f.jpg
     text: Tell me more about it
+  - text: Don't stop, I want to hear more
+  - text: I am listening, continue
+  - text: Keep talking, I am interested
+  - text: Interesting, I want to know more
+  - text: Hmm, interesting tell me more
+  - text: Hmm, it is so intriguing, tell me more
+  - text: I want to know more, go ahead and talk
+  - text: It's so captivating, keep talking
+  - text: Fascinating, continue
   utter_did_that_help:
   - text: Did that help you?
   utter_happy:
   - text: I'm good
   utter_goodbye:
   - text: Bye
+  - text: See ya
   utter_iamabot:
   - text: I am a bot, powered by Rasa.
   utter_mood_great:
@@ -39,7 +49,6 @@ responses:
   - text: So lame ...
   utter_second_chance:
   - text: Alright, i'm listening
-  - text: Okay, listening
   - text: Okay, last chance
   - text: Alright
   - text: Okay listening
@@ -52,6 +61,13 @@ responses:
   - text: No way you just said that
   - text: That's so inappropriate
   - text: Are you ******* serious ?
+  - text: There is no way I read that
+  - text: There is no way you told me that
+  - text: Words cannot describe how I feel about this
+  - text: You didn't said that, did you ?
+  - text: I am shock
+  - text: Did you think before talking ?
+  - text: Wow, I cannot believe what you just said
   utter_deny_sex:
   - text: No thanks i'm fine :)
   - text: Well that's raw

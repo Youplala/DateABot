@@ -63,6 +63,8 @@
 - let's fuck
 - i want to get you pregnant
 - i will impregnate you
+- do you want to fuck me ?
+- Let's have sex
 
 ## regex:Do you know
 - Do you know
