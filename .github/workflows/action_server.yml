@@ -1,8 +1,9 @@
 on:
-  # Deploy a new image whenever new changes were pushed to the master branch
   push:
     branches:
       - master
+    paths:
+    - 'actions/**'
 
 jobs:
   build_and_deploy:
@@ -15,12 +16,17 @@ jobs:
     - id: action_server
       name: Build an action server with a custom actions
       uses: RasaHQ/action-server-gha@master
+      # Full list of parameters: https://github.com/RasaHQ/action-server-gha/tree/master#input-arguments
       with:
         docker_image_name: 'youplala/action-server'
         docker_registry_login: ${{ secrets.DOCKER_HUB_LOGIN }}
         docker_registry_password: ${{ secrets.DOCKER_HUB_PASSWORD }}
+        # More details about github context:
+        # https://docs.github.com/en/actions/reference/context-and-expression-syntax-for-github-actions#github-context
+        #
+        # github.sha - The commit SHA that triggered the workflow run
         docker_image_tag: ${{ github.sha }}
-
+        
     - name: Upgrade a Rasa X deployment
       run: |
         # More information: https://rasa.com/docs/rasa-x/installation-and-setup/install/helm-chart/
