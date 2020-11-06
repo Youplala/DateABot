@@ -88,6 +88,9 @@ responses:
   - text: Don't you think that's early?
   - text: I'm gonna say no
   - text: Hmmm,  no thanks
+  utter_doing:
+  - text: Nothing and you
+  - text: Not so much, what you doing
 actions:
 - utter_mood_great
 - utter_second_chance
