@@ -19,7 +19,7 @@ stories:
 - story: Deny sex advances
   steps:
   - intent: ask_sex
-  - action: utter_deny_sex
+  - action: action_test
 rules:
 - rule: Say goodbye anytime the user says goodbye
   steps:

@@ -12,6 +12,7 @@
 - Hey sweetie 😘
 - Hello darling
 - what's up
+- heyyy
 
 ## intent:mood_ask
 - i'm good and you
