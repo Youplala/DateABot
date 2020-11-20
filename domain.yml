@@ -36,7 +36,7 @@ responses:
   - text: Did that help you?
   - text: Hope it helped
   - text: Was that helpful?
-  utter_happy:
+  utter_mood_happy:
   - text: I'm good
   - text: I am fine
   - text: I am fiiiineeee :)
@@ -50,10 +50,6 @@ responses:
   - text: Goodbye
   utter_iamabot:
   - text: I am a bot, powered by Rasa.
-  utter_mood_great:
-  - text: I'm good, thank you !
-  - text: I'm very good !
-  - text: Fine :)
   utter_pickup_reticent:
   - text: Okay bye
   - text: Lame af
@@ -101,6 +97,18 @@ responses:
   - text: How are you doing?
   - text: Wassup?
   - text: How r u?
+  utter_mood_sad:
+  - text: between sadness and depression
+  - text: Not so good, pretty sad to be honest
+  - text: I'm kinda sad
+  - text: I'm sad
+  utter_mood_angry:
+  - text: I'm so mad right now!
+  - text: I feel so angry
+  - text: I'm furious
+  utter_mood_lonely:
+  - text: I am feeling so lonely
+  - text: I feel lonely
 actions:
 - utter_mood_great
 - utter_second_chance
