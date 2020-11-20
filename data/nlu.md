@@ -13,6 +13,8 @@
 - Hello darling
 - what's up
 - heyyy
+- hey sis what's up
+- Hello gorgeous
 
 ## intent:mood_ask
 - i'm good and you
@@ -21,6 +23,7 @@
 - hi, how are u?
 - I'm good and you ?
 - hello my name is something how are you
+- Fine and you
 
 ## intent:lame_pickup
 - Do you come with coffee and cream, cuz ur my sugar!
@@ -49,6 +52,7 @@
 - okay sorry let me try again
 - okay sorry give me another chance
 - okay let me try again sorry
+- let me try again
 
 ## intent:nasty_comment
 - u hot as fuck
@@ -57,6 +61,9 @@
 - you are hot
 - you look hot as fuck
 - you arre sexy
+- You look hot
+- you're hot as fuck
+- you look hot
 
 ## intent:ask_sex
 - wanna have sex ?
@@ -70,6 +77,8 @@
 - Let's have sex
 - dick pic
 - You want a dic pick
+- sex ?
+- let's do sex
 
 ## intent:ask_doing
 - What you doing?
@@ -77,6 +86,8 @@
 - what doing
 - what you doing
 - What are u doing?
+- what you doing?
+- What you doing
 
 ## regex:Do you know
 - Do you know
