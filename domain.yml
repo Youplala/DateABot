@@ -17,7 +17,9 @@ intents:
 - ask_doing
 responses:
   utter_greet:
-  - text: Hey! How are you?
+  - text: Heyyyy
+  - text: Hello :)
+  - text: Good morning !
   utter_tell_me_more:
   - image: https://i.imgur.com/nGF1K8f.jpg
     text: Tell me more about it
@@ -94,7 +96,13 @@ responses:
   - text: Nothing and you
   - text: I'm bored doing nothing, what you doing
   - text: Not so much and you
+  utter_ask_mood:
+  - text: Doing well?
+  - text: How are you doing?
+  - text: Wassup?
+  - text: How r u?
 actions:
 - utter_mood_great
 - utter_second_chance
 - utter_doing
+- action_test
