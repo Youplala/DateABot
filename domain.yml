@@ -101,8 +101,12 @@ responses:
   - text: How are you doing?
   - text: Wassup?
   - text: How r u?
+  utter_back_to_it:
+  - text: Let's get back to it now
+  - text: Now let's get back to it would you?
 actions:
 - utter_mood_great
 - utter_second_chance
 - utter_doing
 - action_test
+- back_to_it
