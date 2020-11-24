@@ -29,7 +29,7 @@ rules:
   steps:
   - intent: bot_challenge
   - action: utter_iamabot
-  - action: back_to_it
+  - action: utter_back_to_it
 - rule: Act shocked anytime the user says nasty stuff
   steps:
   - intent: nasty_comment
