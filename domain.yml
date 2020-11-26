@@ -36,11 +36,6 @@ responses:
   - text: Did that help you?
   - text: Hope it helped
   - text: Was that helpful?
-  utter_happy:
-  - text: I'm good
-  - text: I am fine
-  - text: I am fiiiineeee :)
-  - text: I am sooooooo good right now
   utter_goodbye:
   - text: Bye
   - text: See ya
@@ -48,12 +43,11 @@ responses:
   - text: We talk soon
   - text: Cya Later
   - text: Goodbye
-  utter_iamabot:
-  - text: I am a bot, powered by Rasa.
   utter_mood_great:
   - text: I'm good, thank you !
   - text: I'm very good !
   - text: Fine :)
+  - text: I am happy
   utter_pickup_reticent:
   - text: Okay bye
   - text: Lame af
@@ -91,7 +85,7 @@ responses:
   - text: Don't you think that's early?
   - text: I'm gonna say no
   - text: Hmmm,  no thanks
-  utter_doing:
+  utter_doing_nothing:
   - text: Not so much and you?
   - text: Nothing and you
   - text: I'm bored doing nothing, what you doing
@@ -104,6 +98,18 @@ responses:
   utter_back_to_it:
   - text: Let's get back to it now
   - text: Now let's get back to it would you?
+  utter_mood_happy:
+  - text: I am happy
+  utter_mood_sad:
+  - text: I am sad
+  utter_mood_lonely:
+  - text: I feel lonely
+  utter_mood_angry:
+  - text: I am so furious
+  utter_mood_depressed:
+  - text: I am not in a good mood
+  utter_ask_doing:
+  - text: What you doing?
 actions:
 - utter_mood_great
 - utter_second_chance
