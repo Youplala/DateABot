@@ -6,6 +6,7 @@ stories:
   - action: utter_greet
   - action: utter_ask_mood
   - intent: mood_ask
+  - action: utter_mood_angry
 - story: sad path 1
   steps:
   - intent: greet
