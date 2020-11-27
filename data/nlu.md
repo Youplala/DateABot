@@ -64,6 +64,7 @@
 - You look hot
 - you're hot as fuck
 - you look hot
+- you're the bomb
 
 ## intent:ask_sex
 - wanna have sex ?
