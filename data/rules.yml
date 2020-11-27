@@ -28,7 +28,6 @@ rules:
 - rule: Say 'I am a bot' anytime the user challenges
   steps:
   - intent: bot_challenge
-  - action: utter_iamabot
   - action: utter_back_to_it
 - rule: Act shocked anytime the user says nasty stuff
   steps:
