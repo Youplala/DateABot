@@ -24,6 +24,8 @@
 - I'm good and you ?
 - hello my name is something how are you
 - Fine and you
+- Are you angry ?
+- how are you
 
 ## intent:lame_pickup
 - Do you come with coffee and cream, cuz ur my sugar!
@@ -80,6 +82,7 @@
 - You want a dic pick
 - sex ?
 - let's do sex
+- i wanan fuck
 
 ## intent:ask_doing
 - What you doing?
