@@ -108,6 +108,8 @@ responses:
   - text: I am not in a good mood
   utter_ask_doing:
   - text: What you doing?
+  utter_engage:
+  - text: You look funny ! Let's talk :)
 actions:
 - utter_mood_great
 - utter_second_chance
