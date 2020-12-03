@@ -93,6 +93,10 @@
 - what you doing?
 - What you doing
 
+## intent:ask_why
+- Why?
+- Why so?
+
 ## regex:Do you know
 - Do you know
 
