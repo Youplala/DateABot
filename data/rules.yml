@@ -20,6 +20,11 @@ stories:
   steps:
   - intent: ask_sex
   - action: action_test
+- story: Bot engages conversation
+  steps:
+  - action: utter_engage
+  - intent: affirm
+  - action: ask_mood
 rules:
 - rule: Say goodbye anytime the user says goodbye
   steps:
