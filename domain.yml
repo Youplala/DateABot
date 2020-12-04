@@ -15,6 +15,7 @@ intents:
 - nasty_comment
 - ask_sex
 - ask_doing
+- ask_why
 responses:
   utter_greet:
   - text: Heyyyy
@@ -113,6 +114,4 @@ responses:
 actions:
 - utter_mood_great
 - utter_second_chance
-- utter_doing
 - action_test
-- back_to_it
