@@ -83,6 +83,7 @@
 - sex ?
 - let's do sex
 - i wanan fuck
+- fuck ?
 
 ## intent:ask_doing
 - What you doing?
@@ -96,6 +97,11 @@
 ## intent:ask_why
 - Why?
 - Why so?
+- why
+- why?
+
+## intent:ask_date
+- do you want to be my lioness ?
 
 ## regex:Do you know
 - Do you know
