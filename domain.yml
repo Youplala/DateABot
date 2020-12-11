@@ -2,6 +2,7 @@ session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: false
 intents:
+- ask_date
 - greet
 - goodbye
 - affirm
@@ -111,7 +112,28 @@ responses:
   - text: What you doing?
   utter_engage:
   - text: You look funny ! Let's talk :)
+  utter_talk:
+  - text: Yeah sure let's talk
+  utter_restaurant_like:
+  - text: I looooove pizza. There is a pizzeria next to my apartement, I go there
+      at least twice a week
+  - text: I love fast food
+  utter_ask:
+  - text: What about you?
+  - text: And you?
+  utter_ask_restaurant_date:
+  - text: Hmmmm I would love too, but we split the bill
+  - text: Yeah I won't complain, if you cook for me
+  utter_wondering:
+  - text: Ah why?
+  utter_ask_food:
+  - text: I can eat everything. Because I truly love everything
+  utter_ask_more:
+  - text: Hahahaha, what more
+  utter_deny_sex_meme:
+  - text: Hahaha of course
 actions:
 - utter_mood_great
 - utter_second_chance
 - action_test
+- ask_mood
