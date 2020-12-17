@@ -25,6 +25,10 @@ stories:
   - action: utter_engage
   - intent: affirm
   - action: ask_mood
+- story: Ask date
+  steps:
+  - intent: ask_date
+  - action: utter_asked_restaurant_date
 rules:
 - rule: Say goodbye anytime the user says goodbye
   steps:
