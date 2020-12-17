@@ -99,6 +99,7 @@
 - Why so?
 - why
 - why?
+- why so ?
 
 ## intent:ask_date
 - do you want to be my lioness ?
