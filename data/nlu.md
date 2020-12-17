@@ -103,6 +103,9 @@
 
 ## intent:ask_date
 - do you want to be my lioness ?
+- Wold you go on a date with me ?
+- Do you want to go out tonight ?
+- Wanna meet up?
 
 ## regex:Do you know
 - Do you know
