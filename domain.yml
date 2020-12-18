@@ -137,6 +137,10 @@ responses:
   - text: Hahahaha, what more
   utter_deny_sex_meme:
   - text: Hahaha of course
+  utter_perfect:
+  - text: It's perfect :)
+  - text: Perfectly fine for me
+  - text: I will be there
 actions:
 - utter_mood_great
 - utter_second_chance
