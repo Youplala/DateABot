@@ -106,6 +106,9 @@
 - Wold you go on a date with me ?
 - Do you want to go out tonight ?
 - Wanna meet up?
+- do you wanna go out someday ?
+- meet up ?
+- do you wanna go out ?
 
 ## intent:ask_date_restaurant
 - Would you go to the restaurant tomorrow night?
