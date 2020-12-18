@@ -112,6 +112,11 @@
 - We should go to the restaurant tonight
 - May I invite you to the restaurant sometime?
 
+## intent:choose_date_date
+- Tomorrow evening at around 7pm is fine ?
+- I'm available in two weeks, is it fine for you?
+- 8pm then?
+
 ## regex:Do you know
 - Do you know
 
