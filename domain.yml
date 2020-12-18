@@ -141,6 +141,11 @@ responses:
   - text: It's perfect :)
   - text: Perfectly fine for me
   - text: I will be there
+  utter_refuse_date:
+  - text: I'm sorry, but i'm gonna have to decline.
+  - text: I'm not really interested, sorry
+  - text: I'm too busy I can't
+  - text: I'm afraid I won't go with you
 actions:
 - utter_mood_great
 - utter_second_chance

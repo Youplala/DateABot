@@ -32,6 +32,11 @@ stories:
   - intent: ask_where_eat
   - action: utter_restaurant_like
   - intent: choose_date_date
+  - action: utter_perfect
+- story: Ask date in general
+  steps:
+  - intent: ask_date
+  - action: utter_refuse_date
 rules:
 - rule: Say goodbye anytime the user says goodbye
   steps:
