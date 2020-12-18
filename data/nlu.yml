@@ -107,6 +107,7 @@ nlu:
     - you betcha
     - good for you
     - true
+    - okay, it's fair
 - intent: deny
   examples: |
     - no

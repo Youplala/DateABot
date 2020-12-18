@@ -100,6 +100,7 @@
 - why
 - why?
 - why so ?
+- why ?
 
 ## intent:ask_date
 - do you want to be my lioness ?
@@ -116,15 +117,22 @@
 - May I invite you to the restaurant sometime?
 - do you wanna go to the restaurant tomorow?
 - would you go to the restaurant?
+- do you wanna go to hte restaurant ?
+- we should go to the restaurant tonight
+- restaurant?
 
 ## intent:choose_date_date
 - Tomorrow evening at around 7pm is fine ?
 - I'm available in two weeks, is it fine for you?
 - 8pm then?
+- okay, tomorrow morning is fine fo royu?
 
 ## intent:ask_where_eat
 - Where would you like to eat?
 - What restaurant do you like?
+- where would you like to go ?
+- where would you like to go?
+- WHERE TO?
 
 ## regex:Do you know
 - Do you know
