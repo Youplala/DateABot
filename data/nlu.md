@@ -107,6 +107,11 @@
 - Do you want to go out tonight ?
 - Wanna meet up?
 
+## intent:ask_date_restaurant
+- Would you go to the restaurant tomorrow night?
+- We should go to the restaurant tonight
+- May I invite you to the restaurant sometime?
+
 ## regex:Do you know
 - Do you know
 

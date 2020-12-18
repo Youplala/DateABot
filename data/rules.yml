@@ -27,8 +27,8 @@ stories:
   - action: ask_mood
 - story: Ask date
   steps:
-  - intent: ask_date
-  - action: utter_asked_restaurant_date
+  - intent: ask_date_restaurant
+  - action: utter_asked_date_restaurant_accept
 rules:
 - rule: Say goodbye anytime the user says goodbye
   steps:
