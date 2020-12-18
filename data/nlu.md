@@ -115,6 +115,7 @@
 - We should go to the restaurant tonight
 - May I invite you to the restaurant sometime?
 - do you wanna go to the restaurant tomorow?
+- would you go to the restaurant?
 
 ## intent:choose_date_date
 - Tomorrow evening at around 7pm is fine ?
