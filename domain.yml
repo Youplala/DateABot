@@ -121,9 +121,10 @@ responses:
   utter_ask:
   - text: What about you?
   - text: And you?
-  utter_ask_restaurant_date:
-  - text: Hmmmm I would love too, but we split the bill
-  - text: Yeah I won't complain, if you cook for me
+  utter_asked_restaurant_date:
+  - text: Hmmmm I would love to
+  utter_asked_date_restaurant_accept:
+  - text: Yeah why not !
   utter_wondering:
   - text: Ah why?
   utter_ask_food:
