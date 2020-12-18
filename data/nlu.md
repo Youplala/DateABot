@@ -125,7 +125,7 @@
 - Tomorrow evening at around 7pm is fine ?
 - I'm available in two weeks, is it fine for you?
 - 8pm then?
-- okay, tomorrow morning is fine fo royu?
+- okay, tomorrow morning is fine for you?
 
 ## intent:ask_where_eat
 - Where would you like to eat?
