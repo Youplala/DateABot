@@ -117,6 +117,10 @@
 - I'm available in two weeks, is it fine for you?
 - 8pm then?
 
+## intent:ask_where_eat
+- Where would you like to eat?
+- What restaurant do you like?
+
 ## regex:Do you know
 - Do you know
 

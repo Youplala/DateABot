@@ -17,6 +17,9 @@ intents:
 - ask_sex
 - ask_doing
 - ask_why
+- ask_date_restaurant
+- choose_date_date
+- ask_where_eat
 responses:
   utter_greet:
   - text: Heyyyy
@@ -125,6 +128,7 @@ responses:
   - text: Hmmmm I would love to
   utter_asked_date_restaurant_accept:
   - text: Yeah why not !
+  - text: I would love to :)
   utter_wondering:
   - text: Ah why?
   utter_ask_food:

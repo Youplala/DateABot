@@ -29,6 +29,8 @@ stories:
   steps:
   - intent: ask_date_restaurant
   - action: utter_asked_date_restaurant_accept
+  - intent: ask_where_eat
+  - action: utter_restaurant_like
   - intent: choose_date_date
 rules:
 - rule: Say goodbye anytime the user says goodbye
