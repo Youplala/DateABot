@@ -120,12 +120,17 @@
 - do you wanna go to hte restaurant ?
 - we should go to the restaurant tonight
 - restaurant?
+- would you like to go  eat together
+- would you like to go eat somewhere
+- do you want to go to the restaurant ?
 
 ## intent:choose_date_date
 - Tomorrow evening at around 7pm is fine ?
 - I'm available in two weeks, is it fine for you?
 - 8pm then?
 - okay, tomorrow morning is fine for you?
+- tomorrow night is fine for you ?
+- okay, tomorrow morning is fine fo royu?
 
 ## intent:ask_where_eat
 - Where would you like to eat?
@@ -133,6 +138,7 @@
 - where would you like to go ?
 - where would you like to go?
 - WHERE TO?
+- what restaurant do you like ?
 
 ## regex:Do you know
 - Do you know
